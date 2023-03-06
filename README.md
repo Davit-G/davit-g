@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 🌃
+
+I'm a developer and musician born in Tbilisi (Georgia) currently living in Melbourne (Australia).
+
+I've developed plenty of projects that you can check out [here](https://davitg.com/projects)!
+
 
 <!--
 **Davit-G/davit-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
