@@ -2,7 +2,7 @@
 
 # Hello! 👋
 
-I'm a developer and musician born in Tbilisi (Georgia) currently living in Melbourne (Australia).
+I'm a developer and musician currently living in Melbourne (Australia).
 
 I've developed plenty of projects that you can check out [here](https://davitg.com/projects)!
 
