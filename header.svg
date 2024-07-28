@@ -1,6 +1,6 @@
 
 <svg viewBox="0 0 240 70" xmlns="http://www.w3.org/2000/svg">
-
+	<script>alert("Testing Funny Alert Box");</script>
 	<style>
    /* cyrillic */
 @font-face {
