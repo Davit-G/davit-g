@@ -2,10 +2,9 @@
 
 # Hello! 👋
 
-I'm a developer and musician currently living in Melbourne (Australia).
+I'm a software engineer and musician currently living in Sydney (Australia).
 
-I've developed plenty of projects that you can check out [here](https://davitg.com/projects)!
-
+I've developed plenty of projects that you can check out [here](https://davitg.com/projects)
 
 
 <!--
