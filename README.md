@@ -1,23 +1,10 @@
-<img src="./header.svg" width="600px">
+<img src="./header.svg" width="400px">
 
 # Hello! 👋
 
 I'm a software engineer and musician currently living in Sydney (Australia).
 
-I've developed plenty of projects that you can check out [here](https://davitg.com/projects)
-
-
-<!--
-**Davit-G/davit-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I've developed plenty of projects that you can check out [davitg.com](https://davitg.com)
+- I make synth / dnb / vaporwave / electronic music under [DavZ](https://davz.com)
+- My audio plugins and VSTs are under [Aviary Audio](https://aviaryaudio.com)
+- I do some game development, here's my [itch.io](https://davit-g.itch.io)
